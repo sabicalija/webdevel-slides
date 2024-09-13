@@ -26,6 +26,4 @@
 - How clients and servers interact
 - Request and response cycle
 
----
-
 <!-- Add more slides as needed for Lecture 1 -->
