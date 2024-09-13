@@ -28,7 +28,7 @@ background: /ci/fhtw-noir.webp
 
 # Full-Stack Web Development
 
-[Download PDF](./full-stack-web-development.pdf){:target="_blank"}
+<a href="./full-stack-web-development.pdf" target="_blank">Download PDF</a>
 
 <div class="info">
 
