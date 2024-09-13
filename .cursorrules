@@ -1,0 +1,42 @@
+# Full-Stack Web Development
+
+- This is a project to create slides for a bachelor course for (full-stack) web development. The course is part of the 5th semester in a bachelor program called 'Smart Homes & Assistive Technologies'. Students have a 6 weeks crash course in full-stack web development and continue to work on a individual project for the rest of the semester which is the basis for their bachelor thesis.
+
+## Tools
+
+- Use slidev for creating the slides
+- Use pnpm as a package manager when required
+- Prefer using Vue.js when not specified differently
+- Prefer using vite when not specified differently
+
+## Agenda
+
+- www, tcp/ip, http
+- html, css, js
+- APIs, Web APIs, Browser APIs
+- web app (vanilla, vue.js, node.js)
+- Front-end Development
+- Back-end Development
+- Deployment
+
+## Guidelines
+
+- Keep slides concise and focused
+- Use code snippets for technical concepts
+- Include diagrams for complex architectures
+- Highlight key points for each topic
+- Focus on core technologies like HTTP, HTML, CSS, and JavaScript
+- For backend, focus on JavaScript and using node.js, etc. so keep the amount of "new" languages to be learned at a minimum
+
+## Custom Instructions
+
+- Focus on creating informative slides for full-stack web development lectures
+- When mentioning package management, refer to pnpm instead of npm or yarn
+- If discussing frontend frameworks, use Vue.js as the primary example
+- Consider Vite for build and development tool examples
+- As I keep chatting with you, suggest additions for improving the cursorrules file as I add more and more precise instructions about my expectations.
+- Emphasize the use of modern ECMAScript features in JavaScript examples
+- Include accessibility considerations in the front-end development section
+- Add a section on responsive design principles
+- Mention security best practices throughout the course
+- IMPORTANT: When creating content for md slides, always treat source code as if it's included in an external snippet. never write code in md directly. but add the references files seperatly after the content for md to be created and inclded in the md sections.
