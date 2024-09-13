@@ -21,7 +21,7 @@ fonts:
 htmlAttrs:
   lang: en
 layout: cover
-background: /webdevel-slides/src/ci/fhtw-noir.webp
+background: /ci/fhtw-noir.webp
 ---
 
 <style src="./src/styles/main.scss"></style>
