@@ -77,8 +77,9 @@ $color-fhtw-green-dark: darken($color-fhtw-green, 20%);
   }
 }
 
-h2 {
+h2:first-child {
   color: var(--color-primary);
+  margin-bottom: 1.6rem;
 }
 
 ol {
