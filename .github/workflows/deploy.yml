@@ -28,10 +28,16 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Install Playwright Browsers
-        run: pnpm exec playwright install # Add this step to install browsers
+        run: pnpm exec playwright install
 
       - name: Build Slides
         run: pnpm build
+
+      - name: Export PDF Version
+        run: pnpm export --format pdf
+
+      - name: Move PDF to Public Directory
+        run: mv ./full-stack-web-development.pdf ./public/
 
       - name: Upload Build Result
         uses: actions/upload-artifact@v4

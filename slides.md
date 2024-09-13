@@ -28,6 +28,8 @@ background: /ci/fhtw-noir.webp
 
 # Full-Stack Web Development
 
+[Download PDF](./full-stack-web-development.pdf)
+
 <div class="info">
 
 Alija Sabic, MSc.  
